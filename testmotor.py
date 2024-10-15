@@ -2,6 +2,8 @@ from motor import Motor
 
 motor1=Motor() #instance1
 motor2=Motor() #instance2
+motor3=Motor() #instance3
+
 
 motor1.speed=25
 motor1.acceleration=10
